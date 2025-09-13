@@ -1,0 +1,6 @@
+@import "tailwindcss";
+@source "./public/*.{html,js}";
+@plugin "daisyui";
+@theme{
+    --font-Montserrat:"Montserrat",sans-serif;
+}
